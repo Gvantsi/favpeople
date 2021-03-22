@@ -5,6 +5,7 @@ public class HelloWorld {
 
         String [] familyMembers = {"Gvantsa", "Givi", "laptops"};
 
+        
         for (String name : familyMembers) {
             System.out.println(name);
         }
